@@ -80,7 +80,29 @@ Tecnologías aplicadas
 - Visual Studio Community
 - .NET
 
+Capturas
+
+ menu
+ <img width="400" height="235" alt="image" src="https://github.com/user-attachments/assets/e67ea427-1f16-4238-9441-7ecbf7ba08f4" />
+
+ opcion 1
+ <img width="424" height="378" alt="image" src="https://github.com/user-attachments/assets/6366a73e-a150-4ddd-9d46-c48b99c60c0e" />
+
+ opcion 2
+ <img width="383" height="324" alt="image" src="https://github.com/user-attachments/assets/5bc8d6d8-cd4c-4200-b230-6ec4885e835a" />
+
+ opcion 3
+ <img width="587" height="125" alt="image" src="https://github.com/user-attachments/assets/908ff26c-5929-472d-9523-fb5cf3e21a6f" />
+
+opcion 4
+<img width="617" height="365" alt="image" src="https://github.com/user-attachments/assets/2dd11db4-86c0-49b5-b24e-3ea2631efd22" />
+
+opcion 5
+<img width="603" height="341" alt="image" src="https://github.com/user-attachments/assets/1d5997c6-636e-4203-8164-07e0e0e1a6e2" />
+
+opcion 6
+<img width="400" height="419" alt="image" src="https://github.com/user-attachments/assets/0a0670fa-13c3-4e6c-912f-b60e1ca3d4d0" />
 
 
 
-  <img width="472" height="168" alt="image" src="https://github.com/user-attachments/assets/776bf1a7-efb5-43f9-a178-6dc6da971250" />
+ 
